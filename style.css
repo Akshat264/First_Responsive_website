@@ -216,7 +216,7 @@ footer{
  }
  .section{
     flex-direction: column-reverse;
-    height: 560px;
+    height: fit-content;
  }
  .text-small{
     text-align: center;
